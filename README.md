@@ -40,7 +40,9 @@ Luego se obtiene la referencia de los campos en los shaders para crear las coord
 https://youtu.be/ZP1ijC1EzJ8
 ## Video Explicativo
 https://youtu.be/VmqzQ4pKqxA
-## Presentacion
+## Presentación
+[Presentación](/Palette-based%20Photo%20Recoloring.pdf)
 ## Reporte
+[Reporte](/informe_CG_v1.pdf)
 ## Referencias
 1. Chang, H., Fried, O., Liu, Y., DiVerdi, S., & Finkelstein, A. (2015). Palette-based photo recoloring. ACM Transactions on Graphics (TOG), 34(4), 139.
