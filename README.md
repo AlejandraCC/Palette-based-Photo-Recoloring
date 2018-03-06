@@ -1,4 +1,5 @@
-# Resumen
+# Palette-based Photo Recoloring
+## Resumen
 Se presenta una GUI que crea una paleta de colores a partir de una imagen, usa una clasificación de colores en base al algoritmo k-means y la transferencia de colores entre píxeles; se recolorea la imagen creando texturas según el nuevo color seleccionado por el usuario. 
 
 ## Del Proyecto
