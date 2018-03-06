@@ -3,6 +3,8 @@ Se presenta una GUI que crea una paleta de colores a partir de una imagen, usa u
 
 ## Del Proyecto
 
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 De la interfaz: 
 La interfaz es simple e intuitiva ya que recibe un archivo de entrada y presenta en botones los colores en predominancia que han sido clasificados previamente.
 
