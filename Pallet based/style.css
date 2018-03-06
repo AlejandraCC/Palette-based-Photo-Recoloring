@@ -1,0 +1,49 @@
+body{
+
+        background: #b2b2b2;
+		margin-left: 100 px;
+		
+   }
+h1
+		{
+					
+			text-align:center;
+
+			font-size:30px;
+			color:#FFF;	
+			left:550px;
+				
+		}
+
+h2
+		{
+					 
+				
+		text-align:center;
+		color:#E1E7F7;	
+		left:550px;
+				
+		}
+
+ #main{
+		    margin-top: 100px;
+		    text-align:center;
+		  }
+#canvas{
+		     background-color: #0a3342;
+		    height: 600px;
+			width: 600px;
+		  }
+#glcanvas{
+			  background-color: #630b0b;
+			   height: 600px;
+			  width: 600px;
+       }
+ input{
+        	width:70px; 
+        	height:40px 
+	  }
+	 div{
+				
+		    	align-content: center;
+      }
