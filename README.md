@@ -4,9 +4,7 @@ Se presenta una GUI que crea una paleta de colores a partir de una imagen, usa u
 Basado en 
 
 ## Del Proyecto
-
-<img align="center" width="600" height="400" src="https://github.com/AlejandraCC/Palette-based-Photo-Recoloring/blob/master/Capturas/01.PNG">
-
+![imagen de muestra](/Capturas/01.PNG)
 ### De la interfaz: 
 La interfaz es simple e intuitiva ya que recibe un archivo de entrada y presenta en botones los colores en predominancia que han sido clasificados previamente.
 
