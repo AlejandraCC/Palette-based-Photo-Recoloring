@@ -7,6 +7,22 @@ De la interfaz:
 La interfaz es simple e intuitiva ya que recibe un archivo de entrada y presenta en botones los colores en predominancia que han sido clasificados previamente.
 
 De la Clasificación:
+
+
+ El numero de k- means varia entre 3 y 7 valores 
+  ---------  Explotando la propiedad
+que nuestros datos son colores restringidos a R, G, B ∈ [0, 1], asignamos
+a los contenedores en un histograma b × b × b (usamos b = 16 en RGB).
+Para cada contenedor, calculamos el color medio en el espacio Lab, y estos
+segundo
+3
+colores ci (o menos porque algunos contenedores pueden estar vacíos) son los
+datos que usamos para k-means - típicamente al menos un par de órdenes de
+magnitud menor que la cantidad de píxeles en la imagen, y
+ahora independiente del tamaño de la imagen. Porque cada punto de datos ci ahora ----
+
+
+
 Se crea un k-means con valores aleatorios donde la primera fila son 0's esto representando el negro según el articulo. Se debería hacer esto como una búsqueda de los valores mas 
 repetidos y usarlo como valores iniciales(función a mejorar).
 Se empieza cargando la imagen según la escala RGB  y un contador según el numero ingresado de k-means.
